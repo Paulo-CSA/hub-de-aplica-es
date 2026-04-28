@@ -1,0 +1,6 @@
+{
+  "name": "Painel de Controle INEMA",
+  "description": "Painel centralizado para monitoramento e gerenciamento das ferramentas de infraestrutura de TI do INEMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
