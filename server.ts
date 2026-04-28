@@ -82,7 +82,7 @@ async function ensureDataFile() {
 async function startServer() {
   await ensureDataFile();
   const app = express();
-  const PORT = 7000;
+  const PORT = 10000;
 
   app.use(express.json());
 
